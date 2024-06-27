@@ -99,5 +99,7 @@ Navigation is the same for doing each of these:
 </p>
 <p>
 In the context of osTicket, creating an SLA is most likely about how long a ticket should stay open before it is resolved. Use these options to select different time frames for e.g., weekends, business hours, etc.  As for creating Help Topics in the Help Topics section (see upper left), you can input standard ones, such as Reset Password, Need Equipment, and so on.
+  <p></p>
+NEXT: all that remains is what happens on the Agent panel: activities which a help desk professional needs to engage in in the process of resolving user and employees issues that get in the way of business operations or technology use. I'll cover this in Ticket Lifecycle.
 </p>
 <br />
