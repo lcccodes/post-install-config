@@ -53,15 +53,16 @@ Below: Once you define a role, click on the "Permissions" tab to choose among th
 <br />
 
 
-<b>Part 2: About the local DNS cache</b>
+<b>Part 2: Ensure Anyone Can Create Tickets</b>
 <p>
 
-![image](https://github.com/lcccodes/dnsconfig/assets/171904823/1dd7fe21-9c98-4103-ac6b-3385b826f481)
+  ![image](https://github.com/lcccodes/post-install-config/assets/171904823/a0fcf64d-1330-4fb0-be55-6fe64446ed2a)
+
 
 
 </p>
 <p>
-To see what's in your local DNS cache, use the command line interface (CLI) and type <b>ipconfig /displaydns</b>. If you suspect that the IP of a resource on the network may have changed, you might want to clear your cache using <b>ipconfig /flushdns</b>. This is harmless to do and it will just mean that your computer will need to consult for a brand new DNS record the next time it wants to call up a specific address. 
+Make sure the highlighted box (ABOVE) remains unchecked. 
 </p>
 <br />
 
