@@ -40,6 +40,8 @@ Creating roles, departments, teams and agents uses the same, very simple, naviga
 
 </p>
 <p>
+Above: note the separate section for "Agents" that is itself on the Agents tab. 
+<p></p>
 Below: Once you define a role, click on the "Permissions" tab to choose among these options.
 
   ![image](https://github.com/lcccodes/post-install-config/assets/171904823/f71c6d7e-47e5-49ae-ab98-6fe5f01f4431)
