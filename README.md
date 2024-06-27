@@ -26,7 +26,7 @@ A key point is to always keep in mind whether you're working on the "admin panel
   
 <h2>Navigation and Configuration</h2>
 
-<b>Part 1: Creating and observing A-records</b>
+<b>Part 1: Configure Roles, Departments, Teams, Agents
 
 <p>
 Creating roles, departments, teams and agents uses the same, very simple, navigation process:
