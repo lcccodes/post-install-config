@@ -71,6 +71,7 @@ Make sure the highlighted box (ABOVE) remains unchecked.
 <p>
 <p></p>
 For this step, make sure you've toggled onto the Agent panel (in upper right).
+<p></p>
 
 ![image](https://github.com/lcccodes/dnsconfig/assets/171904823/69e8d3fe-4e0d-4542-8114-76422d439455)
 
