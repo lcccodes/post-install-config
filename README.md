@@ -87,7 +87,8 @@ For this step, make sure you've toggled onto the Agent panel (in upper right).
 <b>Part 4: Configure SLAs and Help Desk Topics</b>
 </p>
 Navigation is the same for doing each of these:
-ADMIN PANEL > Manage tab > "SLAs" (or "HelpTopics")
+<p></p>
+<b>ADMIN PANEL > Manage tab > "SLAs" (or "HelpTopics")</b>
 <p>
   
 ![image](https://github.com/lcccodes/post-install-config/assets/171904823/d2e64fa5-1b10-47ac-896e-aa3c297f36d9)
