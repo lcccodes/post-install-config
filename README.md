@@ -79,12 +79,12 @@ For this step, make sure you've toggled onto the Agent panel (in upper right).
 
 </p>
 <p>
-[ABOVE]: Very simple navigation.
+[ABOVE]: Very simple navigation. In this photo, in the upper right, you can see the link to the "Admin panel," which indicates that you're currently on the Agent panel.
 </p>
 
 
 
-<b>Part 4: Where to Find Root Hints within Server Manager</b>
+<b>Part 4: Configure SLAs and Help Desk Topics</b>
 </p>
 <p>
   
