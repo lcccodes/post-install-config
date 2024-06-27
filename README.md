@@ -1,7 +1,7 @@
 <h1>What to Configure Once You've Installed osTicket </h1>
 This is just a few basics, partly so I remember certain details.
 <p></p>
-A key point is to always keep in mind whether you're working on the "admin panel" or the "agent panel." You can discern this by reading the link available in the upper right of the console. If it invites you to click on the "agent panel," that means you're currently on the "admin panel." (Admins can perform setup tasks, while agents can open/close tickets and related tasks).
+A key point is to always keep in mind whether you're working on the "admin panel" or the "agent panel." You can discern this by reading the link available in the upper right of the console. If it invites you to click on the "agent panel," that means you're currently on the "admin panel." (Admins can perform setup tasks, define roles and SLAs; while agents can open/close tickets and related tasks).
 <br />
 
 
