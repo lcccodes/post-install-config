@@ -73,12 +73,13 @@ Make sure the highlighted box (ABOVE) remains unchecked.
 For this step, make sure you've toggled onto the Agent panel (in upper right).
 <p></p>
 
-![image](https://github.com/lcccodes/dnsconfig/assets/171904823/69e8d3fe-4e0d-4542-8114-76422d439455)
+![image](https://github.com/lcccodes/post-install-config/assets/171904823/fdd31355-1a39-4ac6-a24b-ec20f0100f67)
+
 
 
 </p>
 <p>
-[ABOVE]: Similar navigation process as for creating or modifying an A-record. Right-click within the window and scroll down to create a new alias/CNAME. As you might expect with the concept of "alias," all that a CNAME does is convert one name to another name. So you could make a link to Wikipedia by using the name "learn" (although it wouldn't actually resolve).
+[ABOVE]: Very simple navigation.
 </p>
 
 
