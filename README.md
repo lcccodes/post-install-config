@@ -21,7 +21,7 @@ A key point is to always keep in mind whether you're working on the "admin panel
 
 - Part 1: Configure Roles, Departments, Teams (if needed) and Agents
 - Part 2: Ensure anyone can create tickets
-- Part 3: Add and configure users <b>**this uses the Agent Panel</b>
+- Part 3: Add and configure users <i>**this uses the Agent Panel</i>
 - Part 4: Configure SLAs (service level agreements) and Help Topics
   
 <h2>Navigation and Configuration</h2>
