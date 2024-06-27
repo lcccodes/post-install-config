@@ -67,8 +67,10 @@ Make sure the highlighted box (ABOVE) remains unchecked.
 <br />
 
 
-<b>Part 3: Creating a CNAME record</b>
+<b>Part 3: Add and configure Users </b>
 <p>
+<p></p>
+For this step, make sure you've toggled onto the Agent panel (in upper right).
 
 ![image](https://github.com/lcccodes/dnsconfig/assets/171904823/69e8d3fe-4e0d-4542-8114-76422d439455)
 
