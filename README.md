@@ -1,7 +1,7 @@
 <h1>What to Configure Once You've Installed osTicket </h1>
 This is just a few basics, partly so I remember certain details.
 <p></p>
-A key point is to always keep in mind whether you're working on the "admin panel" or the "agent panel." You can discern this by reading the link available in the upper right of the console. If it invites you to click on the "agent panel," that means you're currently on the "admin panel." (Admins can perform setup tasks, define roles and SLAs; while agents can open/close tickets and related tasks). What follows below are system-administrator tasks that are performed on the admin panel.
+A key point is to always keep in mind whether you're working on the "admin panel" or the "agent panel." You can discern this by reading the link available in the upper right of the console. If it invites you to click on the "agent panel," that means you're currently on the "admin panel." (Admins can perform setup tasks, define roles and SLAs; while agents can open/close tickets and related tasks). The large majority of what follows below are system-administrator tasks that are performed on the admin panel.
 <br />
 
 
@@ -19,10 +19,10 @@ A key point is to always keep in mind whether you're working on the "admin panel
 
 <h2>Overview</h2>
 
-- Part 1: Configure Roles, Departments and Teams (if needed)
+- Part 1: Configure Roles, Departments, Teams (if needed) and Agents
 - Part 2: Ensure anyone can create tickets
-- Part 3: Configure agents and users
-- Part 4: Configure SLAs (service level agreements) and ticket severity levels
+- Part 3: Add and configure users <b>**this uses the Agent Panel</b>
+- Part 4: Configure SLAs (service level agreements) and Help Topics
   
 <h2>Navigation and Configuration</h2>
 
