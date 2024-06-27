@@ -98,6 +98,6 @@ Navigation is the same for doing each of these:
 
 </p>
 <p>
-Root hints allow the DNS to resolve names and addresses that aren't yet in the cache. In Server Manager, you can reach this page from the same Tools menu in the upper right, then click on DNS, then your domain controller and right click "Properties" and find the Root Hints tab.
+In the context of osTicket, creating an SLA is most likely about how long a ticket should stay open before it is resolved. Use these options to select different time frames for e.g., weekends, business hours, etc.  As for creating Help Topics in the Help Topics section (see upper left), you can input standard ones, such as Reset Password, Need Equipment, and so on.
 </p>
 <br />
