@@ -32,7 +32,7 @@ A key point is to always keep in mind whether you're working on the "admin panel
 Creating roles, departments, teams and agents uses the same, very simple, navigation process:
 <p></p>
 <b>ADMIN PANEL > Agents tab > "Roles" (or "Departments" or "Teams")</b>
-
+<p></p>
 ![image](https://github.com/lcccodes/post-install-config/assets/171904823/aea394d9-726b-4bfe-9f6d-38a81a3c9902)
 
 
