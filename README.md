@@ -19,10 +19,10 @@ A key point is to always keep in mind whether you're working on the "admin panel
 
 <h2>Overview</h2>
 
-- Part 1: Creating and Observing A-records
-- Part 2: About the local DNS cache
-- Part 3: About CNAME records
-- Part 4: Where to find Root Hints
+- Part 1: Configure Roles, Departments and Teams (if needed)
+- Part 2: Ensure anyone can create tickets
+- Part 3: Configure agents and users
+- Part 4: Configure SLAs (service level agreements) and ticket severity levels
   
 <h2>Navigation and Configuration</h2>
 
